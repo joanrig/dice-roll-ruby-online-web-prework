@@ -4,7 +4,6 @@
 # Feel free to google "how to generate a random number in ruby"
 
 def roll
-  num = 1 + rand(6)
-  puts num
+  puts rand(1..6)
   binding.pry
 end
