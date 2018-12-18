@@ -5,6 +5,6 @@
 srand
 
 def roll
-  rand(1..6)
+  rand(7)
 end
 
