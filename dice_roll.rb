@@ -4,9 +4,6 @@
 # Feel free to google "how to generate a random number in ruby"
 srand
 
-def roll
-  rand(1..6)
-end
 
 def roll
   puts 1 + rand(6)
