@@ -4,6 +4,5 @@
 # Feel free to google "how to generate a random number in ruby"
 
 def roll
-  rand(7)
-  binding.pry
+  puts rand(7)
 end
