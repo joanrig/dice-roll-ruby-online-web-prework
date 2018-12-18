@@ -6,4 +6,5 @@
 def roll
   num = 1 + rand(6)
   puts num
+  binding.pry
 end
