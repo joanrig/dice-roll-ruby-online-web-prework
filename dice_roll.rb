@@ -8,3 +8,6 @@ def roll
   rand(1..6)
 end
 
+def roll
+  puts 1 + rand(6)
+end
