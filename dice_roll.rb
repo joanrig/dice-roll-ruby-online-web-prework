@@ -6,3 +6,4 @@
 def roll
   puts rand(7)
 end
+
